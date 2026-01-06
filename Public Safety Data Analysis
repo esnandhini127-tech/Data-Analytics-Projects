@@ -1,0 +1,30 @@
+# Public Safety Data Analysis – SQL Project
+
+## Objective
+To design and implement a relational Public Safety Data Analysis using SQL.
+
+## Database Tables
+- Crime
+- Criminal
+- Victim
+- Police_Station
+- FIR
+- Officer
+- Case_Status
+
+## Key SQL Concepts Used
+- Primary & Foreign Keys
+- INNER JOIN, LEFT JOIN
+- GROUP BY & HAVING
+- Subqueries
+- Stored Procedures
+
+## Sample Query
+```sql
+SELECT V.VictimName, CR.CrimeType
+FROM Victim V
+JOIN Crime CR ON V.CrimeID = CR.CrimeID;
+
+Tools used
+MySQL
+MySQL Workbench
