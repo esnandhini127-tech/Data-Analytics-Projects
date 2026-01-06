@@ -8,7 +8,7 @@ This repository showcases my hands-on projects using **SQL and Power BI** to ana
 
 ## 📁 Projects
 
-### 🔹 SQL – Public Safety Data Analysis
+### SQL – Public Safety Data Analysis
 **Folder:** `SQL-Public-Safety-Analysis`
 
 - Designed and analyzed a relational SQL dataset related to public safety
@@ -21,7 +21,7 @@ This repository showcases my hands-on projects using **SQL and Power BI** to ana
 
 ---
 
-### 🔹 Power BI – Telecom Market Share & Competitive Benchmarking
+### Power BI – Telecom Market Share & Competitive Benchmarking
 **Folder:** `PowerBI-Telecom-Market-Share`
 
 - Built an interactive Power BI dashboard to compare telecom operators
@@ -33,7 +33,7 @@ This repository showcases my hands-on projects using **SQL and Power BI** to ana
 
 ---
 
-### 🔹 Power BI – Ecommerce Sales Dashboard
+### Power BI – Ecommerce Sales Dashboard
 **Folder:** `PowerBI-Ecommerce-Sales`
 
 - Created an end-to-end ecommerce sales dashboard
