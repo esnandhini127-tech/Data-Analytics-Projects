@@ -8,16 +8,6 @@ This repository showcases my hands-on projects using **SQL and Power BI** to ana
 
 ## 📁 Projects
 
-### 🔹 SQL + Power BI – Customer Churn & Revenue Impact Analysis
-**Folder:** `Customer-Churn-Revenue-Impact`
-
-- Performed end-to-end customer churn analysis using SQL and Power BI
-- Identified churned vs retained customers and calculated churn rates
-- Analyzed revenue loss due to customer churn
-- Built an interactive Power BI dashboard to visualize churn trends and high-risk segments
-
-**Skills:** SQL, Power BI, DAX, Business Analysis, Data Visualization
-
 ### SQL – Public Safety Data Analysis
 **Folder:** `SQL-Public-Safety-Analysis`
 
